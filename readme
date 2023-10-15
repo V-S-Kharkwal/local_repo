@@ -9,5 +9,16 @@ git clone http link to the repo to be cloned to system
 ls
 >>list the files inside a repo
 
+git add .
+>>To add all files to be coomitted
+
+git commit -m "message for this change"
+>>To commit the changes in the file
+
+git push origin main
+>>To push the changed file to github main branch
+
+git status
+>>To check the status of files under the current directory or repo
 
 
